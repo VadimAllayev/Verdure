@@ -1,4 +1,3 @@
-=======
 VERDURE
 =======
 Developed by: Vadim Allayev
